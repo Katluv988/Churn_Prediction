@@ -10,3 +10,8 @@ This project uses Kaggle’s Bank Customer Churn dataset to predict customers li
  **Model Building & Evaluation:** Training multiple machine learning models and comparing their performance using metrics like accuracy, precision, recall, and F1-score.
      
 **Model Optimization:** Fine-tuning models to improve prediction accuracy.
+
+### Tools & Technologies
+- **Python** (Pandas, NumPy, Scikit-Learn)
+- **Jupyter Notebook** for analysis
+- **Matplotlib, Seaborn** for data visualization
